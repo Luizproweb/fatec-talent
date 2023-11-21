@@ -1,0 +1,33 @@
+#builder-layout  div:not(.beditorcss).splash-user-content {
+    background: #161423 !important;
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 25px !important;
+    padding-right: 0px !important;
+    padding-bottom: 25px !important;
+    padding-left: 0px !important;
+    box-shadow: none !important;
+    color: rgb(81, 98, 131) !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    text-decoration-line: none !important;
+    text-align: center !important;
+    border-top-style: none !important;
+    border-right-style: none !important;
+    border-bottom-style: none !important;
+    border-left-style: none !important;
+    border-color: rgb(81, 98, 131) !important;
+    border-top-width: 0px !important;
+    border-right-width: 0px !important;
+    border-bottom-width: 0px !important;
+    border-left-width: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+
